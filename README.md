@@ -1,5 +1,4 @@
-🛡️ SecureRoute
-SecureRoute is an integrated cybersecurity auditing tool designed for web vulnerability scanning, network reconnaissance, and phishing detection.
+🛡️ SecureRoute is an integrated cybersecurity auditing tool designed for web vulnerability scanning, network reconnaissance, and phishing detection.
 
 🔗 https://secureroute.streamlit.app/
 
